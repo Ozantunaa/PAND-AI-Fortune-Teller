@@ -1,1 +1,0 @@
-export const API_URL = `https://fal-ten.vercel.app/api`
